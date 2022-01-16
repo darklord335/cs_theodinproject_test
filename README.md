@@ -1,2 +1,3 @@
-# cs_theodinproject_test
+# The Odin Project Greetings!
 My Second Github repo!
+Hello Odin!
